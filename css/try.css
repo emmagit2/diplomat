@@ -898,10 +898,10 @@ padding: 40px 0px;
 width: 100%;
   }
   .navbar-brand img{
-    width: 60%;
+    width: 80%;
   }
-  .menu_text h2{
+  .menu_text h3{
     font-size: 23px;
-    margin-top: 40px;
+    margin-top: 30%;
   }
 }
