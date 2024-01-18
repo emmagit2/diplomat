@@ -10,10 +10,7 @@
     height: auto;
    
   }
-links{
-margin-top: 5%;
-    
-}
+
   .navbar-brand{
  position: relative;
  top: -20px;
@@ -909,5 +906,9 @@ width: 100%;
     margin-top: 40%;
   }
     .navbar_icons{
-        width: 110%;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
 }
