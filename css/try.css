@@ -890,7 +890,7 @@ background-color: white;
 
   }
   .links{
-padding: 40px 0px;
+padding: 65px 0px;
   }
   .move{
     margin-top: 15% ;
@@ -909,5 +909,5 @@ width: 100%;
     margin-top: 40%;
   }
     .navbar_icons{
-        width: 100%;
+        width: 110%;
 }
