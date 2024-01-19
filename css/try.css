@@ -934,4 +934,9 @@ width: 100%;
      border-radius: 5px;
 
   }
+  .navbar-brand img {
+    width: 80%;
+    left: -10px;
+    top: 3rem;
+}
 }
