@@ -887,7 +887,16 @@ background-color: white;
 
   }
   .links{
-padding: 65px 0px;
+padding: 8rem 0px;
+      position: relative;
+   justify-content: center;
+  }
+      .links a{
+    padding: 10px;
+  }
+  .navbar_icons{
+    position: absolute;
+    bottom: 60px;
   }
   .move{
     margin-top: 15% ;
@@ -911,4 +920,18 @@ width: 100%;
         align-items: center;
         justify-content: flex-start;
         
+}
+      .logo_header{
+    position: absolute;
+     top: 6px;
+     text-align: center;
+     text-transform: uppercase;
+     font-family: poppins;
+     background-color: #d90c0c;
+     color: white;
+     left: -10px;
+     padding: 5px;
+     border-radius: 5px;
+
+  }
 }
